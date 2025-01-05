@@ -1,0 +1,9 @@
+---
+layout: comic
+date: 2025-01-05
+title: Frying
+categories: page
+number: 37
+permalink: /read/37
+image: /pages/rm_037.webp
+---
